@@ -9,3 +9,6 @@ locals {
   }
 }
 
+#  tags = merge(var.tags, {
+#       Name = "${var.tags["project"]}-${var.tags["application"]}-${var.tags["environment"]}-VPC"
+#   })
