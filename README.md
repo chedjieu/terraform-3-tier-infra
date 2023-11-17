@@ -7,12 +7,12 @@
 
 2. Clone the repo
 
-3. Get inside the project folder
+3. Get inside the Project folder
 
-4. Execute below commands
-...
+4. Execute below commands 
+```
 terraform init
 terraform validate
 terraform plan
 terraform apply
-...
+```
